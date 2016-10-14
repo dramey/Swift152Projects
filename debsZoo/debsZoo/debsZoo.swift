@@ -35,9 +35,9 @@ class DebsZoo{
     }
     //prepopulated People -- My family and a few employees :)
     func populatePeople(){
-        zooPeople["0123a"] = Person(id: "0123a", name: "Rog Ramey", type: "Visitor")
-        zooPeople["0123b"] = Person(id: "0123b",name:  "Polly Ramey", type: "Visitor")
-        zooPeople["0123c"] = Person(id: "0123c", name: "Deb Ramey", type: "Visitor")
+        zooPeople["0120"] = Person(id: "0120", name: "Rog Ramey", type: "Visitor")
+        zooPeople["0121"] = Person(id: "0121",name:  "Polly Ramey", type: "Visitor")
+        zooPeople["0122"] = Person(id: "0122", name: "Deb Ramey", type: "Visitor")
         zooPeople["JD111"] = Person(id: "JD111", name: "Johnny Depp", type: "Employee")
         zooPeople["WS111"] = Person(id: "WS111", name: "Will Smith", type: "Employee")
         
